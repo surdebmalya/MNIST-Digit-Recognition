@@ -3,7 +3,8 @@ The project is pretty simple and everyone has done the project, but this particu
 # Result
 I have achieved an accuracy of **99.27%**.
 # Model Building
-For this project I have used an exsisting model of mine, so in the main file I just loaded the model and showed the accuracy.
+For this project I have used an exsisting sequential model of mine. 
+So in the main file I just loaded the model and showed the accuracy.
 The Model Architechture is given below:
 
 ![CNN Model Architechture](model_arch.png)
